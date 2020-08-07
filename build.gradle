@@ -1,6 +1,14 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+ext {
+    sotre_password = 'dlacjfrb123!@#'
+    key_alias = 'gamebot'
+    key_password = 'dlacjfrb123'
+    jks = 'C:\\jks\\gamebot.jks'
+}
+
 buildscript {
     ext.kotlin_version = "1.3.72"
+    ext.activityVersion = "1.2.0-alpha04"
     repositories {
         google()
         jcenter()

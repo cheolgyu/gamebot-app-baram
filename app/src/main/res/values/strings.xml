@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">gamebot-app-baram</string>
+    <string name="app_name">바람의나라 연 하자</string>
+    <string name="app_service">바람의나라 연 하자 서비스</string>
+    <string name="app_service_start">바람의나라 연 하자 서비스가 시작되었습니다.</string>
+    <string name="app_service_thread_stop">정지되었습니다.</string>
+    <string name="app_service_thread_start">시작되었습니다.</string>
+    <string name="app_service_stop">바람의나라 연 하자 서비스가 종료되었습니다.</string>
+    <string name="channel_name">바람의나라 연 하자</string>
+    <string name="channel_description">바람의나라 연 하자</string>
+    <string name="accessibility_service_label">바람의나라 연 하자</string>
+    <string name="accessibility_service_description">바람의나라 연 하자</string>
 </resources>
