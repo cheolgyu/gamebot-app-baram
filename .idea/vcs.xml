@@ -3,7 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/background" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gamebot-common-yolo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/myad" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tf" vcs="Git" />
   </component>
 </project>
