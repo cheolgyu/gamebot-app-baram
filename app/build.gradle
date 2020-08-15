@@ -24,8 +24,8 @@ android {
         applicationId "com.highserpot.baram"
         minSdkVersion 25
         targetSdkVersion 30
-        versionCode 4
-        versionName "1.1.1"
+        versionCode 8
+        versionName "1.1.4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
