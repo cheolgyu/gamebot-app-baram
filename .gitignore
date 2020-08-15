@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 /gamebot-common-yolo/
+/app/src/main/assets/detect.tflite
+/app/release/
