@@ -12,10 +12,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/background" />
-            <option value="$PROJECT_DIR$/gamebot-common-yolo" />
-            <option value="$PROJECT_DIR$/myad" />
-            <option value="$PROJECT_DIR$/tf" />
+            <option value="$PROJECT_DIR$/gamebot-common-admob" />
+            <option value="$PROJECT_DIR$/gamebot-common-background" />
+            <option value="$PROJECT_DIR$/gamebot-common-tflite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
