@@ -1,96 +1,50 @@
 <resources>
     <string name="model">yolov4</string>
-    <string name="app_name">바람의나라 연 하자</string>
-    <string name="app_service">바람의나라 연 하자 서비스</string>
-    <string name="app_service_start">바람의나라 연 하자 서비스가 시작되었습니다.</string>
+    <string name="app_name">바람의나라 연 봇</string>
+    <string name="app_service">바람의나라 연 봇 서비스</string>
+    <string name="app_service_start">바람의나라 연 봇 서비스가 시작되었습니다.</string>
     <string name="app_service_thread_stop">정지되었습니다.</string>
     <string name="app_service_thread_start">시작되었습니다.</string>
-    <string name="app_service_stop">바람의나라 연 하자 서비스가 종료되었습니다.</string>
-    <string name="channel_name">바람의나라 연 하자</string>
-    <string name="channel_description">바람의나라 연 하자</string>
-    <string name="accessibility_service_label">바람의나라 연 하자</string>
-    <string name="accessibility_service_description">바람의나라 연 하자</string>
+    <string name="app_service_stop">바람의나라 연 봇 서비스가 종료되었습니다.</string>
+    <string name="channel_name">바람의나라 연 봇</string>
+    <string name="channel_description">바람의나라 연 봇</string>
+    <string name="accessibility_service_label">바람의나라 연 봇</string>
 
-    <string name="label_1">이동중</string>
-    <string name="label_2">이름 2</string>
-    <string name="label_3">우편-모두받기</string>
-    <string name="label_4">우편-확인</string>
-    <string name="label_5">다음</string>
-    <string name="label_6">버튼1-노랑</string>
-    <string name="label_7">버튼1-회색</string>
-    <string name="label_8">건너뛰기</string>
-    <string name="label_9">초록-쾌완</string>
-    <string name="label_10">도전임무완료</string>
-    <string name="label_11">업적-모두받기</string>
-    <string name="label_12">100퍼</string>
-    <string name="label_13">사냥도감-완성하기</string>
-    <string name="label_14">사냥도감-이동</string>
-    <string name="label_15">뉴</string>
-    <string name="label_16">걸어가기</string>
-    <string name="label_17">도감-완성하기</string>
-    <string name="label_18">이름 18</string>
-    <string name="label_19">이름 19</string>
-    <string name="label_20">이름 20</string>
-    <string name="label_21">이름 21</string>
-    <string name="label_22">이름 22</string>
-    <string name="label_23">이름 23</string>
-    <string name="label_24">이름 24</string>
-    <string name="label_25">이름 25</string>
-    <string name="label_26">이름 26</string>
-    <string name="label_27">이름 27</string>
-    <string name="label_28">이름 28</string>
-    <string name="label_29">이름 29</string>
-    <string name="label_30">이름 30</string>
-    <string name="label_31">이름 31</string>
-    <string name="label_32">이름 32</string>
-    <string name="label_33">이름 33</string>
-    <string name="label_34">이름 34</string>
-    <string name="label_35">이름 35</string>
-    <string name="label_36">이름 36</string>
-    <string name="label_37">이름 37</string>
-    <string name="label_38">이름 38</string>
-    <string name="label_39">이름 39</string>
-    <string name="label_40">이름 40</string>
-    <string name="label_41">이름 41</string>
-    <string name="label_42">이름 42</string>
-    <string name="label_43">이름 43</string>
-    <string name="label_44">이름 44</string>
-    <string name="label_45">이름 45</string>
-    <string name="label_46">이름 46</string>
-    <string name="label_47">이름 47</string>
-    <string name="label_48">이름 48</string>
-    <string name="label_49">이름 49</string>
-    <string name="label_50">이름 50</string>
-    <string name="label_51">이름 51</string>
-    <string name="label_52">이름 52</string>
-    <string name="label_53">이름 53</string>
-    <string name="label_54">이름 54</string>
-    <string name="label_55">이름 55</string>
-    <string name="label_56">이름 56</string>
-    <string name="label_57">이름 57</string>
-    <string name="label_58">이름 58</string>
-    <string name="label_59">이름 59</string>
-    <string name="label_60">이름 60</string>
-    <string name="label_61">이름 61</string>
-    <string name="label_62">이름 62</string>
-    <string name="label_63">이름 63</string>
-    <string name="label_64">이름 64</string>
-    <string name="label_65">이름 65</string>
-    <string name="label_66">이름 66</string>
-    <string name="label_67">이름 67</string>
-    <string name="label_68">이름 68</string>
-    <string name="label_69">이름 69</string>
-    <string name="label_70">이름 70</string>
-    <string name="label_71">이름 71</string>
-    <string name="label_72">이름 72</string>
-    <string name="label_73">이름 73</string>
-    <string name="label_74">이름 74</string>
-    <string name="label_75">이름 75</string>
-    <string name="label_76">이름 76</string>
-    <string name="label_77">이름 77</string>
-    <string name="label_78">이름 78</string>
-    <string name="label_79">이름 79</string>
-    <string name="label_80">이름 80</string>
+    <string name="manual">
+        <![CDATA[
+        <h6> v_1.3.1 </h6>
+        <p>
+        [사냥도감 다음 층 이동하기]
+        왼쪽의 탭을 사냥도감으로 맞춰주시고 클릭 권한을 활성해주세요.
+        </p>
+
+        <p>
+            <ol>
+                <li>클릭 대상 : 100%, 창닫기, 완성하기, 이동, 걸어가기</li>
+                <li>왼쪽의 탭을 사냥도감으로 맞춰주시고 클릭 권한을 활성해주세요. </li>
+            </ol>
+        </p>
+    <h2>소개</h2>
+    <p>
+
+    <ul>
+        <li>현재 화면을 캡쳐하여 머신러닝으로 화면을 인식합니다.</li>
+        <li>게임시작을 눌러 권한2개(항상 위에 보이게 하는 권한, 클릭 권한)를 획득후에 한번더 게임시작을 누르면 팝업창이 생성됩니다.</li>
+        <li>샘플을 클릭하여 현재 기기에서 동작여부를 확인합니다.</li>
+        <li>샘플에서 동작이 안되면 종료하기를 누르세요. 애뮬레이터에 따라 화면을 캡쳐할 수 없어 이용하실수 없습니다.</li>
+        <li>샘플에서 동작이 된다면 게임을 키시고 이용하시면 됩니다.</li>
+        <li>이용가능한 에뮬레이터: 블루스택</li>
+        <li style="color:red"><b>주의!</b> 결제 화면에서 정확도가 낮아 클릭될 수 있으니 종료 후 이용하시기 바랍니다.</li>
+    </ul>
+    </p>
+
+    <p>
+        감사합니다.
+    </p>
+        ]]>
+
+
+    </string>
 
 
 </resources>
